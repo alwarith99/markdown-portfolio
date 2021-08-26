@@ -1,3 +1,3 @@
 * Qdoba :heart:
 * chipotle
-* Five Guys
+* FiveGuys
