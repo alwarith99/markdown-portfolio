@@ -1,4 +1,4 @@
 List of my favorite restaurants 💙:
-* Qdoba 
+* Qdoba  
 * chipotle
 * FiveGuys
